@@ -1,7 +1,7 @@
 ﻿    
     using System;
 
-    namespace laçosELoops
+    namespace lacosELoops
 {
 
     class Program
