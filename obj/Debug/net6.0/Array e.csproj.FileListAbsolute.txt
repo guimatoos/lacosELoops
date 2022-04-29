@@ -1,0 +1,45 @@
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\Array e\bin\Debug\net6.0\Array e.exe
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\Array e\bin\Debug\net6.0\Array e.deps.json
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\Array e\bin\Debug\net6.0\Array e.runtimeconfig.json
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\Array e\bin\Debug\net6.0\Array e.dll
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\Array e\bin\Debug\net6.0\Array e.pdb
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\Array e\obj\Debug\net6.0\Array e.csproj.AssemblyReference.cache
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\Array e\obj\Debug\net6.0\Array e.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\Array e\obj\Debug\net6.0\Array e.AssemblyInfoInputs.cache
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\Array e\obj\Debug\net6.0\Array e.AssemblyInfo.cs
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\Array e\obj\Debug\net6.0\Array e.csproj.CoreCompileInputs.cache
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\Array e\obj\Debug\net6.0\Array e.dll
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\Array e\obj\Debug\net6.0\refint\Array e.dll
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\Array e\obj\Debug\net6.0\Array e.pdb
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\Array e\obj\Debug\net6.0\Array e.genruntimeconfig.cache
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\Array e\obj\Debug\net6.0\ref\Array e.dll
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\teste\obj\Debug\net6.0\Array e.csproj.AssemblyReference.cache
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\teste\obj\Debug\net6.0\Array e.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\teste\obj\Debug\net6.0\Array e.AssemblyInfoInputs.cache
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\teste\obj\Debug\net6.0\Array e.AssemblyInfo.cs
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\teste\obj\Debug\net6.0\Array e.csproj.CoreCompileInputs.cache
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\teste\obj\Debug\net6.0\Array e.dll
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\teste\obj\Debug\net6.0\refint\Array e.dll
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\teste\obj\Debug\net6.0\Array e.pdb
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\teste\bin\Debug\net6.0\Array e.exe
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\teste\bin\Debug\net6.0\Array e.deps.json
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\teste\bin\Debug\net6.0\Array e.runtimeconfig.json
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\teste\bin\Debug\net6.0\Array e.dll
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\teste\bin\Debug\net6.0\Array e.pdb
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\teste\obj\Debug\net6.0\Array e.genruntimeconfig.cache
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\teste\obj\Debug\net6.0\ref\Array e.dll
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\laçosELoops\bin\Debug\net6.0\Array e.exe
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\laçosELoops\bin\Debug\net6.0\Array e.deps.json
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\laçosELoops\bin\Debug\net6.0\Array e.runtimeconfig.json
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\laçosELoops\bin\Debug\net6.0\Array e.dll
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\laçosELoops\bin\Debug\net6.0\Array e.pdb
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\laçosELoops\obj\Debug\net6.0\Array e.csproj.AssemblyReference.cache
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\laçosELoops\obj\Debug\net6.0\Array e.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\laçosELoops\obj\Debug\net6.0\Array e.AssemblyInfoInputs.cache
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\laçosELoops\obj\Debug\net6.0\Array e.AssemblyInfo.cs
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\laçosELoops\obj\Debug\net6.0\Array e.csproj.CoreCompileInputs.cache
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\laçosELoops\obj\Debug\net6.0\Array e.dll
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\laçosELoops\obj\Debug\net6.0\refint\Array e.dll
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\laçosELoops\obj\Debug\net6.0\Array e.pdb
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\laçosELoops\obj\Debug\net6.0\Array e.genruntimeconfig.cache
+C:\Users\guima\OneDrive\Área de Trabalho\Projetos\laçosELoops\obj\Debug\net6.0\ref\Array e.dll
